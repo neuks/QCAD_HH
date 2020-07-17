@@ -1002,7 +1002,7 @@ Do you wish to recover it?</source>
     <message>
         <location line="+54"/>
         <source>min</source>
-        <translation>最小</translation>
+        <translation>分钟</translation>
     </message>
 </context>
 <context>
@@ -1530,12 +1530,12 @@ Do you wish to recover it?</source>
     <message>
         <location line="+0"/>
         <source>CAD Toolbar</source>
-        <translation>CAD 工具栏</translation>
+        <translation>CAD工具栏</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Vertical/Horizontal</source>
-        <translation>垂直 / 水平</translation>
+        <translation>垂直/水平</translation>
     </message>
     <message>
         <location filename="../scripts/Widgets/CadToolBar/PreferencesPage.ui" line="+17"/>
@@ -2152,7 +2152,7 @@ Do you wish to recover it?</source>
     <message>
         <location filename="../scripts/Edit/DrawingPreferences/ColorSettings/ColorSettings.js" line="+25"/>
         <source>Defaults for New Drawings</source>
-        <translation>绘图</translation>
+        <translation>新建绘图</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -2402,7 +2402,7 @@ Do you wish to recover it?</source>
     <message>
         <location filename="../scripts/Widgets/CoordinateDisplay/PreferencesPage.ui" line="+17"/>
         <source>Forced update every N mouse moves:</source>
-        <translation>每N次鼠标移动强制更新一次：</translation>
+        <translation>每N次鼠标移动强制更新：</translation>
     </message>
 </context>
 <context>
@@ -3120,7 +3120,7 @@ Do you wish to recover it?</source>
     <message>
         <location filename="../scripts/Edit/DrawingPreferences/DimensionSettings/DimensionSettings.js" line="+27"/>
         <source>Defaults for New Drawings</source>
-        <translation>绘图</translation>
+        <translation>新建绘图</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -3201,7 +3201,7 @@ Do you wish to recover it?</source>
     <message>
         <location line="+228"/>
         <source>Unit / Format</source>
-        <translation>单位 / 格式</translation>
+        <translation>单位/格式</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -5043,7 +5043,7 @@ is already in the list.</source>
     <message>
         <location line="+1"/>
         <source>Are you sure that you want to flush the undo / redo transaction history?</source>
-        <translation>是否确实要清除撤消 / 重做历史？</translation>
+        <translation>是否确实要清除撤消/重做历史？</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -5164,7 +5164,7 @@ is already in the list.</source>
     <message>
         <location line="+10"/>
         <source>Double-click on block reference opens block</source>
-        <translation>在块引用上双击双击打开块</translation>
+        <translation>双击打开块</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -5204,12 +5204,12 @@ is already in the list.</source>
     <message>
         <location line="+102"/>
         <source>Cursor range for picking entities:</source>
-        <translation>拾取实体的光标范围：</translation>
+        <translation>拾取光标范围：</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Cursor range for snap:</source>
-        <translation>捕捉的光标范围：</translation>
+        <translation>捕捉光标范围：</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -5244,7 +5244,7 @@ is already in the list.</source>
     <message>
         <location line="+6"/>
         <source>Show large origin axis</source>
-        <translation>显示较大的原点轴</translation>
+        <translation>显示大坐标轴</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -5304,12 +5304,12 @@ is already in the list.</source>
     <message>
         <location line="+29"/>
         <source>Prevent white on white / black on black display</source>
-        <translation>在黑白显示器上避免白色</translation>
+        <translation>避免白与白/黑与黑显示</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Disable for printing</source>
-        <translation>打印禁用</translation>
+        <translation>打印时禁用</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -5339,7 +5339,7 @@ is already in the list.</source>
     <message>
         <location line="+28"/>
         <source>Pattern scale for lineweight 0.00mm:</source>
-        <translation>线宽为 0.00 mm 的图案比例：</translation>
+        <translation>线宽为 0.00mm 时使用：</translation>
     </message>
     <message>
         <location line="+38"/>
@@ -5593,7 +5593,7 @@ is already in the list.</source>
     <message>
         <location line="+7"/>
         <source>Limit zoom and scroll to prevent overflows</source>
-        <translation>限制缩放和滚动以防止溢出</translation>
+        <translation>限制缩放和滚动</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -5603,7 +5603,7 @@ is already in the list.</source>
     <message>
         <location line="+7"/>
         <source>Reverse mouse wheel direction for zoom</source>
-        <translation>反转鼠标滚轮方向以进行缩放</translation>
+        <translation>反转鼠标滚轮方向</translation>
     </message>
     <message>
         <location line="+217"/>
@@ -5613,7 +5613,7 @@ is already in the list.</source>
     <message>
         <location line="+7"/>
         <source>Mouse wheel / two finger swipe:</source>
-        <translation>鼠标滚轮 / 两指轻扫：</translation>
+        <translation>鼠标滚轮/两指轻扫：</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -5652,7 +5652,7 @@ is already in the list.</source>
     <message>
         <location filename="../scripts/Edit/DrawingPreferences/GridSettings/GridSettings.js" line="+27"/>
         <source>Defaults for New Drawings</source>
-        <translation>绘图</translation>
+        <translation>新建绘图</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -5808,7 +5808,7 @@ is already in the list.</source>
     <message>
         <location filename="../scripts/Misc/Examples/IOExamples/IOExamples.js" line="+51"/>
         <source>&amp;Import/Export</source>
-        <translation>导入 / 导出(&amp;I)</translation>
+        <translation>导入/导出(&amp;I)</translation>
     </message>
 </context>
 <context>
@@ -6120,7 +6120,7 @@ is already in the list.</source>
     <message>
         <location filename="../scripts/Information/InfoArcCircleArea/InfoArcCircleAreaInit.js" line="+2"/>
         <source>Arc/Circle/Ellipse Area</source>
-        <translation>圆弧 / 圆 / 椭圆面积</translation>
+        <translation>圆弧/圆/椭圆面积</translation>
     </message>
     <message>
         <location filename="../scripts/Information/InfoArcCircleArea/InfoArcCircleArea.ui" line="-86"/>
@@ -6155,7 +6155,7 @@ is already in the list.</source>
     <message>
         <location line="+26"/>
         <source>Add lengths/circumference to drawing</source>
-        <translation>向绘图添加长度 / 周长</translation>
+        <translation>向绘图添加长度/周长</translation>
     </message>
 </context>
 <context>
@@ -6398,7 +6398,7 @@ is already in the list.</source>
     <message>
         <location line="+10"/>
         <source>Cartesian Coordinate Separator:</source>
-        <translation>笛卡尔坐标分隔符：</translation>
+        <translation>笛卡尔分隔符：</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -7103,7 +7103,7 @@ is already in the list.</source>
     <message>
         <location filename="../scripts/Modify/Lengthen/LengthenInit.js" line="+2"/>
         <source>&amp;Lengthen / Shorten</source>
-        <translation>延长 / 缩短(&amp;L)</translation>
+        <translation>延长/缩短(&amp;L)</translation>
     </message>
     <message>
         <location filename="../scripts/Modify/Lengthen/Lengthen.ui" line="+17"/>
@@ -7664,7 +7664,7 @@ shown in search results:</source>
     <message>
         <location line="+23"/>
         <source>Finger/Slot Ratio:</source>
-        <translation>指 / 槽比例：</translation>
+        <translation>指/槽比例：</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -7731,7 +7731,7 @@ shown in search results:</source>
     <message>
         <location line="+25"/>
         <source>Dovetail/Pin Ratio:</source>
-        <translation>燕尾 / 销比例：</translation>
+        <translation>燕尾/销比例：</translation>
     </message>
 </context>
 <context>
@@ -7838,7 +7838,7 @@ shown in search results:</source>
     <message>
         <location filename="../scripts/Draw/Line/LineOrthogonalTangent/LineOrthogonalTangentInit.js" line="+2"/>
         <source>Orthogonal / Tange&amp;nt</source>
-        <translation>垂直 / 相切(&amp;n)</translation>
+        <translation>垂直/相切(&amp;n)</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -8074,7 +8074,7 @@ shown in search results:</source>
     <message>
         <location filename="../scripts/Edit/DrawingPreferences/LinetypeSettings/LinetypeSettings.js" line="+25"/>
         <source>Defaults for New Drawings</source>
-        <translation>绘图</translation>
+        <translation type="unfinished">绘图</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -8095,7 +8095,7 @@ shown in search results:</source>
     <message>
         <location line="+35"/>
         <source>Scale of linetypes matches the scale of each viewport</source>
-        <translation>线型比例与每个视口的比例匹配</translation>
+        <translation>线型比例与视口比例匹配</translation>
     </message>
 </context>
 <context>
@@ -8327,12 +8327,12 @@ shown in search results:</source>
     <message>
         <location line="+9"/>
         <source>Misc Import / Export Tools</source>
-        <translation>其他导入 / 导出工具</translation>
+        <translation>其他导入/导出工具</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>&amp;Import/Export</source>
-        <translation>导入 / 导出(&amp;I)</translation>
+        <translation>导入/导出(&amp;I)</translation>
     </message>
 </context>
 <context>
@@ -8701,7 +8701,7 @@ shown in search results:</source>
     <message>
         <location filename="../scripts/Edit/DrawingPreferences/PageSettings/PageSettings.js" line="+29"/>
         <source>Defaults for New Drawings</source>
-        <translation>绘图</translation>
+        <translation>新建绘图</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -8817,7 +8817,7 @@ shown in search results:</source>
     <message>
         <location line="+0"/>
         <source>Paste</source>
-        <translation>粘贴</translation>
+        <translation>粘贴设置</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -8963,7 +8963,7 @@ shown in search results:</source>
     <message>
         <location filename="../scripts/Edit/DrawingPreferences/PointDisplaySettings/PointDisplaySettings.js" line="+25"/>
         <source>Defaults for New Drawings</source>
-        <translation>绘图</translation>
+        <translation>新建绘图</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -9356,7 +9356,7 @@ shown in search results:</source>
     <message>
         <location line="+10"/>
         <source>Display properties of current block and current layer</source>
-        <translation>当前块和当前图层的显示特性</translation>
+        <translation>显示当前块和图层属性</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -9366,7 +9366,7 @@ shown in search results:</source>
     <message>
         <location line="+10"/>
         <source>Always show all properties (this may slow down selection of entities)</source>
-        <translation>始终显示所有属性（这可能会减慢选择实体的速度）</translation>
+        <translation>始终显示所有属性（可能会减降低实体选择速度）</translation>
     </message>
     <message>
         <location filename="../scripts/Widgets/PropertyEditor/PropertyEditor.ui" line="+40"/>
@@ -9950,7 +9950,7 @@ shown in search results:</source>
     <message>
         <location line="+0"/>
         <source>Open/Save</source>
-        <translation>打开 / 保存</translation>
+        <translation>打开/保存</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -10140,7 +10140,7 @@ shown in search results:</source>
     <message>
         <location filename="../scripts/Edit/AppPreferences/ScriptingPreferences/PreferencesPage.ui" line="+17"/>
         <source>Rescan scripts folder on startup</source>
-        <translation>启动时重新扫描脚本文件夹</translation>
+        <translation>启动时重新扫描脚本</translation>
     </message>
 </context>
 <context>
@@ -11336,7 +11336,7 @@ shown in search results:</source>
         <location line="+0"/>
         <location filename="../scripts/File/SvgImport/SvgImportDialog.ui" line="+14"/>
         <source>SVG Import</source>
-        <translation>导入 SVG</translation>
+        <translation>导入SVG</translation>
     </message>
     <message>
         <location line="+33"/>
@@ -11356,7 +11356,7 @@ shown in search results:</source>
     <message>
         <location filename="../scripts/File/SvgImport/SvgImportInit.js" line="+2"/>
         <source>SVG &amp;Import...</source>
-        <translation>SVG 导入(&amp;I)...</translation>
+        <translation>导入 SVG(&amp;I)...</translation>
     </message>
     <message>
         <location filename="../scripts/File/SvgImport/PreferencesPage.ui" line="+17"/>
@@ -11442,12 +11442,12 @@ shown in search results:</source>
     <message>
         <location filename="../scripts/Edit/AppPreferences/TextPreferences/PreferencesPage.ui" line="+17"/>
         <source>Show font preview in font controls</source>
-        <translation>在字体选择控件中显示预览</translation>
+        <translation>在字体选择显示预览</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Use reduced selection of fonts:</source>
-        <translation>使用自定范围的字体：</translation>
+        <translation>自定义字体使用范围：</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -12080,7 +12080,7 @@ shown in search results:</source>
     <message>
         <location line="+0"/>
         <source>Move/Copy</source>
-        <translation>移动 / 复制</translation>
+        <translation>移动/复制</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -12095,7 +12095,7 @@ shown in search results:</source>
     <message>
         <location filename="../scripts/Modify/Translate/TranslateInit.js" line="+2"/>
         <source>&amp;Move / Copy</source>
-        <translation>移动 / 复制(&amp;M)</translation>
+        <translation>移动/复制(&amp;M)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -12128,7 +12128,7 @@ shown in search results:</source>
     <message>
         <location filename="../scripts/Modify/Translate/TranslateDialog.ui" line="+14"/>
         <source>Move / Copy Options</source>
-        <translation>移动 / 复制选项</translation>
+        <translation>移动/复制选项</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -12174,7 +12174,7 @@ shown in search results:</source>
     <message>
         <location filename="../scripts/Modify/TranslateRotate/TranslateRotateDialog.ui" line="+14"/>
         <source>Move and Rotate Options</source>
-        <translation>移动 / 旋转选项</translation>
+        <translation>移动/旋转选项</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -12290,7 +12290,7 @@ shown in search results:</source>
     <message>
         <location filename="../scripts/Edit/DrawingPreferences/UnitSettings/UnitSettings.js" line="+27"/>
         <source>Defaults for New Drawings</source>
-        <translation>绘图</translation>
+        <translation>新建绘图</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -12501,7 +12501,7 @@ shown in search results:</source>
     <message>
         <location filename="../scripts/Edit/DrawingPreferences/ViewportSettings/ViewportSettings.js" line="+27"/>
         <source>Defaults for New Drawings</source>
-        <translation>绘图</translation>
+        <translation>新建绘图</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -13322,7 +13322,7 @@ shown in search results:</source>
         <location line="+152"/>
         <location line="+152"/>
         <source>Display Grid</source>
-        <translation>显示栅格</translation>
+        <translation>栅格</translation>
     </message>
     <message>
         <location line="-446"/>

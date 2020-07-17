@@ -444,7 +444,7 @@
     <message>
         <location line="+2"/>
         <source>Handle</source>
-        <translation>处理</translation>
+        <translation>句柄</translation>
     </message>
     <message>
         <location line="+1"/>
